@@ -1,0 +1,23 @@
+#Wed Nov 30 23:09:35 EST 2011
+printMargin=true
+AbstractTextEditor.Color.Background=0,34,64
+org.eclipse.cdt.ui.occurrenceIndication=true
+searchResultTextStyle=BOX
+eclipse.preferences.version=1
+spacesForTabs=true
+AbstractTextEditor.Color.Foreground.SystemDefault=false
+AbstractTextEditor.Color.Foreground=255,255,255
+overviewRuler_migration=migrated_3.1
+tabWidth=3
+searchResultIndication=true
+lineNumberRuler=true
+org.eclipse.cdt.ui.writeOccurrenceIndicationColor=128,0,128
+currentLineColor=0,0,0
+org.eclipse.cdt.ui.occurrenceTextStyle=BOX
+org.eclipse.cdt.ui.occurrenceHighlighting=false
+org.eclipse.cdt.ui.occurrenceIndicationColor=0,128,0
+AbstractTextEditor.Color.Background.SystemDefault=false
+searchResultHighlighting=false
+currentLine=false
+org.eclipse.cdt.ui.writeOccurrenceTextStyle=BOX
+org.eclipse.cdt.ui.writeOccurrenceHighlighting=false
